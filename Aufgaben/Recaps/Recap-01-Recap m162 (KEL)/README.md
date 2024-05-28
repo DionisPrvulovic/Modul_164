@@ -64,4 +64,71 @@ Diese Tabelle enthält Mitarbeiterinformationen wie Mitarbeiter-ID, Vorname, Nac
 
 ---
 
+## Lösungen zu den Aufgaben
+
+### Aufgabe 1
+
+![Aufgabe 1](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Aufgabe_1.png)
+
+**Lösung:**
+- Entität: Fahrzeug
+- Attribute: Fahrzeug-ID, Marke, Modell, Baujahr, Kilometerstand
+- Beziehungen: Ein Fahrzeug kann zu einem bestimmten Besitzer gehören.
+
+### Aufgabe 2
+
+![Aufgabe 2](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Aufgabe_2.png)
+
+**Lösung:**
+- Entität: Bibliothek
+- Attribute: Buch-ID, Titel, Autor, Jahr, Verfügbarkeit
+- Beziehungen: Ein Buch kann von einem bestimmten Benutzer ausgeliehen werden.
+
+### Aufgabe 3
+
+![Aufgabe 3](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Aufgabe_3.png)
+
+**Lösung:**
+- Entität: Student
+- Attribute: Student-ID, Name, Studiengang, Semester
+- Beziehungen: Ein Student kann sich in mehreren Kursen einschreiben.
+
+### Aufgabe 4
+
+![Aufgabe 4](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Aufgabe_4.png)
+
+**Lösung:**
+- Entität: Mitarbeiter
+- Attribute: Mitarbeiter-ID, Name, Position, Abteilung, Gehalt
+- Beziehungen: Ein Mitarbeiter gehört zu einer bestimmten Abteilung.
+
+### Aufgabe 5
+
+![Aufgabe 5](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Aufgabe_5.png)
+
+**Lösung:**
+- Entität: Produkt
+- Attribute: Produkt-ID, Name, Kategorie, Preis, Lagerbestand
+- Beziehungen: Ein Produkt kann in mehreren Bestellungen enthalten sein.
+
+### Aufgabe 6
+
+![Aufgabe 6](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Aufgabe_6.png)
+
+**Lösung:**
+- Entität: Kurs
+- Attribute: Kurs-ID, Name, Beschreibung, Credits, Dozent
+- Beziehungen: Ein Kurs kann von mehreren Studenten belegt werden.
+
+### Aufgabe 7
+
+![Aufgabe 7](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Aufgabe_7.png)
+
+**Lösung:**
+- Entität: Auftrag
+- Attribute: Auftrag-ID, Kunde, Produkt, Menge, Datum
+- Beziehungen: Ein Kunde kann mehrere Aufträge haben.
+
+---
+
 Für weitere Details und spezifische Aufgabenstellungen besuchen Sie bitte das originale [GitLab Repository](https://gitlab.com/ch-tbz-it/Stud/m164/-/blob/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Recap_KEL.md).
